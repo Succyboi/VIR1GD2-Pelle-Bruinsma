@@ -5,7 +5,7 @@
 - 2nd year CMD - Game Design
 - 15th of January 2021
 - Stupidplusplus.com
-> NOTE: this document has been written in markdown and can also be read [here](https://gist.github.com/Succyboi/81d7ae7002259934d07740930fbc6014).
+> NOTE: this document has been written in markdown and can also be read [here](https://github.com/Succyboi/VIR1GD2-Pelle-Bruinsma/blob/master/ReadMe.md).
 
 <div style="page-break-after: always;"></div>
 
